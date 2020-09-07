@@ -1,7 +1,8 @@
 import React from 'react';
 import Key from './Key';
 
-const Keyboard = ({ beats}) =>{
+const Keyboard = ({ beats}, props) =>{
+	console.log(beats);
 	return (
 			<div className='flex flex-wrap flex-auto items-center justify-center '>
 				{
