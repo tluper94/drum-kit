@@ -8,7 +8,7 @@ class App extends Component {
  		return (
  			<div className='h100'>
  				<h1 className='title'>DrumKit</h1>
- 				<div  className='ma6' >
+ 				<div  className='ma5' >
  					<Keyboard beats={beats} />
  				</div>
  			</div>
