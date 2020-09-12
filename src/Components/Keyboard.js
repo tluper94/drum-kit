@@ -42,13 +42,7 @@ const Keyboard = ({beats}) => {
 		const keys = Array.from(document.querySelectorAll('.key'));
 		//Loops through  array and and listens for 'transitionend' event and calls the removeTransition function
 		keys.forEach(key => key.addEventListener('transitionend', removeTransition));
-		return () => {
-			// Cleans up and removes eventlisteners
-			window.removeEventListener('keydown', handleKeyDown);
-			keys.forEach(key => key.removeEventListener('transitionend', removeTransition));
-		};
 	});
-
 		return (
 			<div className='flex flex-wrap flex-auto items-center justify-center '>
 			{
