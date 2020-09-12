@@ -1,26 +1,26 @@
 export const beats = [
 	{
-		"name": "Boom",
+		"name": "Clap",
 		"key": 'A',
 		"id": 65
 	},
 	{
-		"name": "Clap",
+		"name": "HiHat",
 		"key": 'S',
 		"id": 83
 	},
 	{
-		"name": "Hihat",
+		"name": "Kick",
 		"key": 'D',
 		"id": 68
 	},
 	{
-		"name": "Kick",
+		"name": "OpenHat",
 		"key": 'F',
 		"id": 70
 	},
 	{
-		"name": "Openhat",
+		"name": "Boom",
 		"key": 'G',
 		"id": 71
 	},
@@ -35,12 +35,12 @@ export const beats = [
 		"id": 74
 	},
 	{
-		"name": "Tink",
+		"name": "Tom",
 		"key": 'K',
 		"id": 75
 	},
 	{
-		"name": "Tom",
+		"name": "Tink",
 		"key": 'L',
 		"id": 76
 	}
