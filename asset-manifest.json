@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d0eb939.chunk.css",
+    "main.js": "/static/js/main.3cad5a18.chunk.js",
+    "main.js.map": "/static/js/main.3cad5a18.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.261030d9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.261030d9.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.6948f98b.chunk.js": "/static/js/2.6948f98b.chunk.js",
+    "static/js/2.6948f98b.chunk.js.map": "/static/js/2.6948f98b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e7239b8f1a32271e273119fc359fb131.js": "/precache-manifest.e7239b8f1a32271e273119fc359fb131.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.3d0eb939.chunk.css.map": "/static/css/main.3d0eb939.chunk.css.map",
+    "static/js/2.6948f98b.chunk.js.LICENSE.txt": "/static/js/2.6948f98b.chunk.js.LICENSE.txt",
+    "static/media/boom.wav": "/static/media/boom.550be808.wav",
+    "static/media/clap.wav": "/static/media/clap.a6e86dd7.wav",
+    "static/media/hihat.wav": "/static/media/hihat.4ba39e07.wav",
+    "static/media/kick.wav": "/static/media/kick.4dd58595.wav",
+    "static/media/openhat.wav": "/static/media/openhat.a62db465.wav",
+    "static/media/ride.wav": "/static/media/ride.b0d70ec5.wav",
+    "static/media/snare.wav": "/static/media/snare.80c4129b.wav",
+    "static/media/tink.wav": "/static/media/tink.2a6bb6f5.wav",
+    "static/media/tom.wav": "/static/media/tom.572ed39d.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.261030d9.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.6948f98b.chunk.js",
+    "static/css/main.3d0eb939.chunk.css",
+    "static/js/main.3cad5a18.chunk.js"
+  ]
+}
